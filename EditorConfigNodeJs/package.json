@@ -1,0 +1,9 @@
+{
+  "name": "editor-config-node-js",
+  "version": "0.0.0",
+  "description": "EditorConfigNodeJs",
+  "main": "app.js",
+  "author": {
+    "name": "matsaleh"
+  }
+}

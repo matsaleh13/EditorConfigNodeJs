@@ -1,0 +1,6 @@
+﻿root = true
+
+# All file types.
+[*.js]
+indent_style = space
+indent_size = 27
